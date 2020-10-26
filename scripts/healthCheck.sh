@@ -1,1 +1,1 @@
-curl "http://localhost:${PORT}">$HOME/output.html
+curl "http://localhost:8080"
